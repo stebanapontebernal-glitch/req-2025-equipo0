@@ -1,6 +1,7 @@
 # Participantes
 
 - cfmorenom: proyecto-plataforma-docente
+- cibonilla: proyecto-app-finanzas - github: DevCarlos23
 - jhonacasas: proyecto-Programa-de-Asistencia-Presencial-y-Telefónica-para-Citas-y-Medicamentos - github:alexan407
 - smican: aplicacion-gamificacion-rutas-alternativas - github Mican123
 - hapava: aplicacion-gamificacion-rutas-alternativas-github:haroldandrespavaperez
@@ -11,4 +12,3 @@
 - jsantiagoroa: aplicacion-gamificacion-rutas-alternativas-github:jsantiagoroa
 - cdalugonzalez: proyecto-App-móvil-con-escaneo-de-código-y-control-en-tiempo-real-de-inventario - github: cari311
 - surango: diseño de una base de datos en MySQL/PostgreSQL con interfaz básica (Java, Python o aplicación web) - Github SebastianUrango
-
