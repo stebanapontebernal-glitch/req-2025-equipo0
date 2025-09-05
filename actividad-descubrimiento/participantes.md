@@ -1,6 +1,7 @@
 # Participantes
 
 - cfmorenom: proyecto-plataforma-docente
+- jestebanaponte:aplicacion-y/o-sitio-web-para-aprender-acerca-del-manejo-del-dinero - github: stebanapontebernal-glitch
 - cibonilla: proyecto-app-finanzas - github: DevCarlos23
 - jhonacasas: proyecto-Programa-de-Asistencia-Presencial-y-Telefónica-para-Citas-y-Medicamentos - github:alexan407
 - smican: aplicacion-gamificacion-rutas-alternativas - github Mican123
