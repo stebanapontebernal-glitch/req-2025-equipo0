@@ -1,6 +1,7 @@
 # Participantes
 
 - cfmorenom: proyecto-plataforma-docente
+- dsavila: paguna-wed-para-venta-de-arte - github: Dsaa10o
 - cfmorenom2: aplicacion-gamificacion-rutas-alternativas - github: cfmorenom
 - smendozav: gamificacion-rutas-alternativas-github: santiagomendozavillanueva341@gmail.com
 - jestebanaponte:aplicacion-y/o-sitio-web-para-aprender-acerca-del-manejo-del-dinero - github: stebanapontebernal-glitch
