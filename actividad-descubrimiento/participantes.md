@@ -1,6 +1,7 @@
 # Participantes
 
 - cfmorenom: proyecto-plataforma-docente
+- smican: aplicacion-gamificacion-rutas-alternativas - github Mican123
 - hapava: aplicacion-gamificacion-rutas-alternativas-github:haroldandrespavaperez
 - lalquichides: Consultora de soluciones tecnológicas personalizadas - github: laura0610
 - jpablocuellar: creacion de plataforma para facilidad de pagos por internet - github: juancuellarovalle
