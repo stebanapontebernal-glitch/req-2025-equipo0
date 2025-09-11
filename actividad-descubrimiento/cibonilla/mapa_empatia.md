@@ -17,7 +17,7 @@
 - Publicaciones de como vestir (usualmente ropa elegante).
 
 ## Dice y hace
-- Dice: “Meh Para eso trabajo.
+- Dice: “Meh Para eso trabajo."
 - Gasta impulsivamente en entretenimiento, tecnología, moda o comida.
 - Le da pereza cocinar y gasta demás en comida
 
