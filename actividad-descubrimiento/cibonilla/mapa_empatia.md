@@ -2,20 +2,24 @@
 **Rol:** \<Profesor/a | Estudiante que llega tarde | Analista (observador)>
 
 ## Piensa y siente
-- Principales preocupaciones:
-- Aspiraciones:
-
+- Se siente ansioso cuando no tiene dinero guardado.
+- Miedo a no poder cumplir las metas que se planteo.
+- Quiere vivir nuevas experiencias unicas del mundo gastronomico
+ 
 ## Ve
-- Entorno físico / digital:
-- Qué le muestran otros:
+- Tentaciones constantes: promociones, descuentos, crédito fácil.
+- Personas de su entorno gastando en ocio, moda o tecnología.
+- Dificultades de quienes no tienen un fondo de respaldo económico.
 
 ## Oye
-- De quién se influencia:
-- Mensajes clave:
+- Consejos de familiares o amigos que le dicen que debería ahorrar.
+- Publicidad que lo cautiva en especial sobre experiencias gastronomicas.
+- Publicaciones de como vestir (usualmente ropa elegante).
 
 ## Dice y hace
-- Comportamientos observables:
-- Frases típicas:
+- Dice: “Meh Para eso trabajo.
+- Gasta impulsivamente en entretenimiento, tecnología, moda o comida.
+- Le da pereza cocinar y gasta demás en comida
 
 ## Pains (dolores)
 - 
@@ -25,3 +29,4 @@
 
 ## Evidencia (notas, citas)
 - "\<cita literal>" — Entrevista \<ID>, <fecha>
+- Entrevista a un Juan Pablo (amigo) 10/09/2025
