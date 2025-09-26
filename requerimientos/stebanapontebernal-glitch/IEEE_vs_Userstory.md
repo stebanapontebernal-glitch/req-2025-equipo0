@@ -1,1 +1,9 @@
 ## Comparacion De Redaccion De Requirimientos (IEE vs Userstroy) ##
+
+| IEEE (Lenguaje Estructurado)  | User Story (Agil)  |   
+|---|---|
+|El sistema debe permitir que un nuevo usuario se registre proporcionando como mínimo: nombre completo, correo electrónico y contraseña.|Como nuevo usuario, quiero registrarme con mis datos personales para crear una cuenta en la aplicación.|
+|El sistema debe proporcionar una interfaz gráfica clara y sencilla que permita a los usuarios navegar entre las secciones principales (finanzas, educación, perfil) sin dificultad.   | Como usuario, quiero tener una interfaz clara y sencilla para navegar entre las secciones sin confundirme.  |   
+|  El sistema debe permitir al usuario ingresar y clasificar sus gastos e ingresos en categorías predefinidas (alimentación, transporte, vivienda, entretenimiento, etc.). |  Como usuario, quiero ver gráficos y reportes de mis finanzas para entender en qué gasto más, quiero establecer metas de ahorro y presupuesto para organizar mejor mis finanzas |   
+|  El sistema debe permitir al usuario acceder a una biblioteca de cursos y materiales educativos sobre manejo de finanzas personales. |   Como usuario, quiero acceder a cursos de educación financiera para aprender a manejar mejor mi dinero, quiero que los cursos estén clasificados por nivel y tema para elegir los que se adapten a mi conocimiento, quiero ver mi progreso en los cursos para motivarme a completarlos.|   
+| El sistema debe permitir que los usuarios que ya han cumplido metas financieras compartan consejos, experiencias y buenas prácticas con otros usuarios.  | Como usuario que logró sus metas, quiero compartir mis experiencias para ayudar a otros a mejorar sus finanzas, quiero convertirme en mentor de nuevos usuarios para guiarlos en su camino financiero.  |   
